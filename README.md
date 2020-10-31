@@ -1,5 +1,5 @@
 # qrcode-generator-
-Python Code for generating QR Code from data in only 5 line of code!!
+Python Code for generating QR Code from data in only 5 lines of code!!
 ## Requriment
 ```
 Python3
